@@ -1,0 +1,30 @@
+{
+	"ident": 1021,
+	"order": 16386,
+	"objtype": "kText",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "kColor3DFace",
+		"backpattern": 15,
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"fieldstyle": "CtrlLabel",
+		"font": 5,
+		"fontsize": 0,
+		"fontstyle": "kPlain",
+		"forecolor": "kColorForeFill",
+		"height": 50,
+		"left": 10,
+		"objlink": 0,
+		"text": {
+			"type": 14,
+			"calc": "\u001B\u000200000000#Enter a minimum age and press 'Filter' to show only those people who are older than the age entered.  Press 'UnFilter' to remove the last filter.\u001B\u000200000001#\r\u001B\u000200000000#\r\u001B\u00018000001"
+		},
+		"textcolor": "kColorWindowText",
+		"top": 5,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 360
+	}
+}

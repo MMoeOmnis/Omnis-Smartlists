@@ -1,0 +1,5 @@
+If pos('$objs',iRef.$fullname)
+	Do iRef.$methods.//$event//.$modify
+Else
+	Modify methods {[iRef.$name]}
+End If

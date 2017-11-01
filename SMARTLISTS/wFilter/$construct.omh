@@ -1,0 +1,10 @@
+;  define and populate list
+Do iList.$define(iName,iAge)
+Do iList.$add('Paul',22)
+Do iList.$add('Sally',29)
+Do iList.$add('Peter',30)
+Do iList.$add('Andrew',45)
+Do iList.$add('Jane',34)
+Do iList.$add('Sarah',19)
+
+Do iList.$smartlist.$assign(kTrue)     ;; set $smartlist property on the list so that we can filter and unfilter

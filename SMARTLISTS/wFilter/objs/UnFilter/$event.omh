@@ -1,0 +1,7 @@
+On evClick     ;; Event Parameters - pRow( Itemreference )
+	Do iList.$unfilter()     ;; remove the last filter from the smartl list
+	Do $cwind.$objs.List.$redraw()     ;; redraw list
+	
+	
+On evRMouseDown
+	Set reference iObjRef to $cobj
