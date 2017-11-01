@@ -1,5 +1,7 @@
 # Omnis-Smartlists
 Omnis library shows how you can use so-called 'smart lists' to filter an Omnis list.
+For more info:
+http://www.omnis.net/documentation/programming/index.jsp?detail=06listprog.html#smart-lists
 
 For Omnis Studio 8.1.2 and above.
 
